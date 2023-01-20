@@ -1,0 +1,12 @@
+project send data to firebase anonym
+
+1. install library Firebase ESP Client by Mobitz
+2. open Firebase and go to authentication menu
+3. then register to anonym and do a configuration to ur Firebase
+4. copy your URL on realtime database menu and API KEY on project setting
+5. go to arduino idle and paste the source code dan change the URL and API KEY to your code
+6. dong forget to chose the boards to "DOIT ESP 32 DEVKIT 1" and upload the program
+7. and thats is work to me 
+
+
+if u dont understand u can go to youtube on this link "https://youtu.be/0S2CmqFugFU"
